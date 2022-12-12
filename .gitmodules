@@ -1,0 +1,3 @@
+[submodule "ngx-simple-component"]
+    path = ngx-simple-component
+    url = https://github.com/chris-vill/ngx-simple-component
